@@ -1,5 +1,5 @@
 /*
- * Teensy 4.0 with LittlevGL Graphic library on a 800 x 480 RA8875 LCD
+ * Teensy 4.0 with LittlevGL Graphic library on a 480 x 320 ILI9488 LCD
  * 
  * May 2020
  * skpang.co.uk
