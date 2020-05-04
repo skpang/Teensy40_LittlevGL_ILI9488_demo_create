@@ -6,3 +6,10 @@ Ensure the follow library are installed first.<br>
 https://github.com/littlevgl/lv_arduino<br>
 https://github.com/littlevgl/lv_examples
 
+In lv_ex_conf.h change
+
+#define LV_USE_DEMO        0
+
+to
+
+#define LV_USE_DEMO        1
