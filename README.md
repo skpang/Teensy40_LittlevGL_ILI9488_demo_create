@@ -16,3 +16,5 @@ In lv_ex_conf.h change
 to
 
 #define LV_USE_DEMO        1
+
+Note : This demo is for LittleVGL version v6.1.1
